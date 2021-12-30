@@ -2323,78 +2323,37 @@
       "name_category": "Nature",
       "wallpaper_name": "Live 1",
       "wallpaper_type": "GIF",
-      "wallpaper_url": "http://kerikil.xyz/nature/1.gif"
+      "wallpaper_url": "http://kerikil.xyz/nature/a.gif"
     },
 	{
       "id": 327,
       "name_category": "Nature",
       "wallpaper_name": "Live 2",
       "wallpaper_type": "GIF",
-      "wallpaper_url": "http://kerikil.xyz/nature/2.gif"
+      "wallpaper_url": "http://kerikil.xyz/nature/b.gif"
     },
 	{
       "id": 328,
       "name_category": "Nature",
       "wallpaper_name": "Live 3",
       "wallpaper_type": "GIF",
-      "wallpaper_url": "http://kerikil.xyz/nature/3.gif"
+      "wallpaper_url": "http://kerikil.xyz/nature/c.gif"
     },
 	{
       "id": 329,
       "name_category": "Nature",
       "wallpaper_name": "Live 4",
       "wallpaper_type": "GIF",
-      "wallpaper_url": "http://kerikil.xyz/nature/4.gif"
+      "wallpaper_url": "http://kerikil.xyz/nature/d.gif"
     },
 	{
       "id": 330,
       "name_category": "Nature",
       "wallpaper_name": "Live 5",
       "wallpaper_type": "GIF",
-      "wallpaper_url": "http://kerikil.xyz/nature/5.gif"
+      "wallpaper_url": "http://kerikil.xyz/nature/e.gif"
     },
-	{
-      "id": 331,
-      "name_category": "Nature",
-      "wallpaper_name": "Live 6",
-      "wallpaper_type": "GIF",
-      "wallpaper_url": "http://kerikil.xyz/nature/6.gif"
-    },
-	{
-      "id": 332,
-      "name_category": "Nature",
-      "wallpaper_name": "Live 7",
-      "wallpaper_type": "GIF",
-      "wallpaper_url": "http://kerikil.xyz/nature/7.gif"
-    },
-	{
-      "id": 333,
-      "name_category": "Nature",
-      "wallpaper_name": "Live 8",
-      "wallpaper_type": "GIF",
-      "wallpaper_url": "http://kerikil.xyz/nature/8.gif"
-    },
-	{
-      "id": 334,
-      "name_category": "Nature",
-      "wallpaper_name": "Live 9",
-      "wallpaper_type": "GIF",
-      "wallpaper_url": "http://kerikil.xyz/nature/9.gif"
-    },
-	{
-      "id": 335,
-      "name_category": "Nature",
-      "wallpaper_name": "Live 10",
-      "wallpaper_type": "GIF",
-      "wallpaper_url": "http://kerikil.xyz/nature/10.gif"
-    },
-	{
-      "id": 336,
-      "name_category": "Nature",
-      "wallpaper_name": "Live 11",
-      "wallpaper_type": "GIF",
-      "wallpaper_url": "http://kerikil.xyz/nature/11.gif"
-    },
+	
 	{
       "id": 337,
       "name_category": "Video",
