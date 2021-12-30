@@ -22,23 +22,23 @@
   "Categories": [
     {
       "name_category": "Cool",
-      "wallpaper_url": "category/cool.jpeg"
+      "wallpaper_url": "http://kerikil.xyz/category/cool.jpg"
     },
     {
       "name_category": "Nature",
-      "wallpaper_url": "category/nature.jpeg"
+      "wallpaper_url": "http://kerikil.xyz/category/nature.jpg"
     },
     {
       "name_category": "Flower",
-      "wallpaper_url": "category/flower.jpeg"
+      "wallpaper_url": "http://kerikil.xyz/category/flower.jpg"
     },
     {
       "name_category": "Animal",
-      "wallpaper_url": "category/animal.jpeg"
+      "wallpaper_url": "http://kerikil.xyz/category/animal.jpg"
 	  },
 	{
       "name_category": "Video",
-      "wallpaper_url": "category/video.jpeg"
+      "wallpaper_url": "http://kerikil.xyz/category/video.jpg"
 	  }
 	  
   ],
