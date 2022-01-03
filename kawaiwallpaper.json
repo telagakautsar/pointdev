@@ -16,22 +16,22 @@
       "high_paying_keyword_4": "",
       "high_paying_keyword_5": "",
       "status_app": "0",
-      "link_redirect": "httpss://"
+      "link_redirect": "https://"
     }
   ],
   "Categories": [
     {
       "name_category": "kawaii",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/logo.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/logo.jpg"
     },
     {
       "name_category": "Live",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/logo2.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/logo2.jpg"
     },
     
 	{
       "name_category": "Video",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/logo3.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/logo3.jpg"
 	  }
 	  
   ],
@@ -41,553 +41,553 @@
       "name_category": "kawaii",
       "wallpaper_name": "Wall 1",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/1.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/1.jpg"
     },
 	{
       "id": 2,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 2",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/2.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/2.jpg"
     },
 	{
       "id": 3,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 3",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/3.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/3.jpg"
     },
 	{
       "id": 4,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 4",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/4.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/4.jpg"
     },
 	{
       "id": 5,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 5",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/5.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/5.jpg"
     },
 	{
       "id": 6,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 6",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/6.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/6.jpg"
     },
 	{
       "id": 7,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 7",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/7.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/7.jpg"
     },
 	{
       "id": 8,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 8",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/8.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/8.jpg"
     },
 	{
       "id": 9,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 9",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/9.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/9.jpg"
     },
 	{
       "id": 10,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 10",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/10.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/10.jpg"
     },
 	    {
       "id": 11,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 11",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/11.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/11.jpg"
     },
 	{
       "id": 12,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 12",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/12.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/12.jpg"
     },
 	{
       "id": 13,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 13",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/13.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/13.jpg"
     },
 	{
       "id": 14,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 14",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/14.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/14.jpg"
     },
 	{
       "id": 15,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 15",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/15.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/15.jpg"
     },
 	{
       "id": 16,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 16",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/16.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/16.jpg"
     },
 	{
       "id": 17,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 17",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/17.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/17.jpg"
     },
 	{
       "id": 18,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 18",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/18.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/18.jpg"
     },
 	{
       "id": 19,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 19",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/19.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/19.jpg"
     },
 	{
       "id": 20,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 20",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/20.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/20.jpg"
     },
 	    {
       "id": 21,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 21",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/21.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/21.jpg"
     },
 	{
       "id": 22,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 22",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/22.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/22.jpg"
     },
 	{
       "id": 23,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 23",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/23.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/23.jpg"
     },
 	{
       "id": 24,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 24",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/24.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/24.jpg"
     },
 	{
       "id": 25,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 25",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/25.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/25.jpg"
     },
 	{
       "id": 26,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 26",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/26.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/26.jpg"
     },
 	{
       "id": 27,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 27",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/27.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/27.jpg"
     },
 	{
       "id": 28,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 28",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/28.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/28.jpg"
     },
 	{
       "id": 29,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 29",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/29.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/29.jpg"
     },
 	{
       "id": 30,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 30",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/30.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/30.jpg"
     },
 	    {
       "id": 31,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 31",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/31.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/31.jpg"
     },
 	{
       "id": 32,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 32",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/32.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/32.jpg"
     },
 	{
       "id": 33,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 33",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/33.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/33.jpg"
     },
 	{
       "id": 34,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 34",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/34.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/34.jpg"
     },
 	{
       "id": 35,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 35",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/35.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/35.jpg"
     },
 	{
       "id": 36,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 36",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/36.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/36.jpg"
     },
 	{
       "id": 37,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 37",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/37.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/37.jpg"
     },
 	{
       "id": 38,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 38",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/38.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/38.jpg"
     },
 	{
       "id": 39,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 39",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/39.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/39.jpg"
     },
 	{
       "id": 40,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 40",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/40.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/40.jpg"
     },
 	    {
       "id": 41,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 41",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/41.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/41.jpg"
     },
 	{
       "id": 42,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 42",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/42.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/42.jpg"
     },
 	{
       "id": 43,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 43",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/43.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/43.jpg"
     },
 	{
       "id": 44,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 44",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/44.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/44.jpg"
     },
 	{
       "id": 45,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 45",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/45.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/45.jpg"
     },
 	{
       "id": 46,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 46",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/46.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/46.jpg"
     },
 	{
       "id": 47,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 47",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/47.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/47.jpg"
     },
 	{
       "id": 48,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 48",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/48.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/48.jpg"
     },
 	{
       "id": 49,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 49",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/49.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/49.jpg"
     },
 	{
       "id": 50,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 50",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/50.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/50.jpg"
     },
 	    {
       "id": 51,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 51",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/51.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/51.jpg"
     },
 	{
       "id": 52,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 52",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/52.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/52.jpg"
     },
 	{
       "id": 53,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 53",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/53.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/53.jpg"
     },
 	{
       "id": 54,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 54",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/54.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/54.jpg"
     },
 	{
       "id": 55,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 55",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/55.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/55.jpg"
     },
 	{
       "id": 56,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 56",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/56.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/56.jpg"
     },
 	{
       "id": 57,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 57",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/57.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/57.jpg"
     },
 	{
       "id": 58,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 58",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/58.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/58.jpg"
     },
 	{
       "id": 59,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 59",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/59.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/59.jpg"
     },
 	{
       "id": 60,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 60",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/60.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/60.jpg"
     },
 	    {
       "id": 61,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 61",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/61.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/61.jpg"
     },
 	{
       "id": 62,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 62",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/62.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/62.jpg"
     },
 	{
       "id": 63,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 63",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/63.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/63.jpg"
     },
 	{
       "id": 64,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 64",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/64.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/64.jpg"
     },
 	{
       "id": 65,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 65",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/65.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/65.jpg"
     },
 	{
       "id": 66,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 66",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/66.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/66.jpg"
     },
 	{
       "id": 67,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 67",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/67.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/67.jpg"
     },
 	{
       "id": 68,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 68",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/68.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/68.jpg"
     },
 	{
       "id": 69,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 69",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/69.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/69.jpg"
     },
 	{
       "id": 70,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 70",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/70.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/70.jpg"
     },
 	    {
       "id": 71,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 71",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/71.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/71.jpg"
     },
 	{
       "id": 72,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 72",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/72.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/72.jpg"
     },
 	{
       "id": 73,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 73",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/73.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/73.jpg"
     },
 	{
       "id": 74,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 74",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/74.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/74.jpg"
     },
 	{
       "id": 75,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 75",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/75.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/75.jpg"
     },
 	{
       "id": 76,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 76",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/76.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/76.jpg"
     },
 	{
       "id": 77,
       "name_category": "kawaii",
       "wallpaper_name": "Wall 77",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/77.jpg"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/77.jpg"
     }
 	{
       "id": 78,
       "name_category": "Live",
       "wallpaper_name": "Live 1",
       "wallpaper_type": "GIF",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/video/gif1.gif"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/video/gif1.gif"
     },
 	{
       "id": 79,
       "name_category": "Live",
       "wallpaper_name": "Live 2",
       "wallpaper_type": "GIF",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/video/gif2.gif"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/video/gif2.gif"
     },
 	
 	{
@@ -595,48 +595,48 @@
       "name_category": "Video",
       "wallpaper_name": "Video 1",
       "wallpaper_type": "MP4",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/video/1.mp4"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/video/1.mp4"
     },
 	{
       "id": 81,
       "name_category": "Video",
       "wallpaper_name": "Video 2",
       "wallpaper_type": "MP4",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/video/2.mp4"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/video/2.mp4"
     },
 	{
       "id": 82,
       "name_category": "Video",
       "wallpaper_name": "Video 3",
       "wallpaper_type": "MP4",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/video/3.mp4"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/video/3.mp4"
     },
 	{
       "id": 83,
       "name_category": "Video",
       "wallpaper_name": "Video 1",
       "wallpaper_type": "MP4",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/video/4.mp4"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/video/4.mp4"
     },
 	{
       "id": 84,
       "name_category": "Video",
       "wallpaper_name": "Video 2",
       "wallpaper_type": "MP4",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/video/5.mp4"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/video/5.mp4"
     },
 	{
       "id": 85,
       "name_category": "Video",
       "wallpaper_name": "Video 3",
       "wallpaper_type": "MP4",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/video/6.mp4"
+      "wallpaper_url": "http://kerikil.xyz/kawaii/video/6.mp4"
     },
 	{
       "id": 86,
       "name_category": "Video",
       "wallpaper_name": "Video 3",
       "wallpaper_type": "MP4",
-      "wallpaper_url": "https://kerikil.xyz/kawaii/video/37
+      "wallpaper_url": "http://kerikil.xyz/kawaii/video/37
   ]
 }
