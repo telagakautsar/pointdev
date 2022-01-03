@@ -1,0 +1,160 @@
+{
+   "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 4,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "car",
+      "high_paying_keyword_2": "fashion",
+      "high_paying_keyword_3": "sport",
+      "high_paying_keyword_4": "mobile",
+      "high_paying_keyword_5": "insurance",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "Theme": [
+    {
+      "url_theme": "https://kerikil.xyz/keyboard/kawaii/1.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/kawaii/2.jpg"
+    },
+	{
+     "url_theme": "https://kerikil.xyz/keyboard/kawaii/3.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/kawaii/4.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/kawaii/5.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/kawaii/6.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/kawaii/7.jpg"
+    },
+	{
+     "url_theme": "https://kerikil.xyz/keyboard/kawaii/8.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/kawaii/9.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/kawaii/10.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/kawaii/11.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/kawaii/12.jpg"
+    },
+	{
+     "url_theme": "https://kerikil.xyz/keyboard/kawaii/13.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/kawaii/14.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/kawaii/15.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/kawaii/16.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/kawaii/17.jpg"
+    },
+	{
+     "url_theme": "https://kerikil.xyz/keyboard/kawaii/18.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/kawaii/19.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/kawaii/20.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/kawaii/21.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/kawaii/22.jpg"
+    },
+	{
+     "url_theme": "https://kerikil.xyz/keyboard/kawaii/23.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/kawaii/24.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/kawaii/25.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/kawaii/26.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/kawaii/27.jpg"
+    },
+	{
+     "url_theme": "https://kerikil.xyz/keyboard/kawaii/28.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/kawaii/29.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/kawaii/30.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/kawaii/31.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/kawaii/32.jpg"
+    },
+	{
+     "url_theme": "https://kerikil.xyz/keyboard/kawaii/33.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/kawaii/34.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/kawaii/35.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/kawaii/36.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/kawaii/37.jpg"
+    },
+	{
+     "url_theme": "https://kerikil.xyz/keyboard/kawaii/38.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/kawaii/39.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/kawaii/40.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/kawaii/41.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/kawaii/42.jpg"
+    },
+	{
+     "url_theme": "https://kerikil.xyz/keyboard/kawaii/43.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/kawaii/44.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/kawaii/45.jpg"
+    } 
+     
+  ]
+}
