@@ -1,0 +1,840 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "Cool",
+      "wallpaper_url": "https://kerikil.xyz/dubai/logo.jpg"
+    },
+    {
+      "name_category": "GIF",
+      "wallpaper_url": "https://kerikil.xyz/dubai/logo2.jpg"
+    },
+    {
+      "name_category": "Video",
+      "wallpaper_url": "https://kerikil.xyz/dubai/logo3.jpg"
+    }
+    
+	  
+  ],
+  "Wallpaper": [
+    {
+      "id": 1,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/1.jpg"
+    },
+	{
+      "id": 2,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 2",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/2.jpg"
+    },
+	{
+      "id": 3,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 3",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/3.jpg"
+    },
+	{
+      "id": 4,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 4",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/4.jpg"
+    },
+	{
+      "id": 5,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 5",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/5.jpg"
+    },
+	{
+      "id": 6,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 6",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/6.jpg"
+    },
+	{
+      "id": 7,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 7",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/7.jpg"
+    },
+	{
+      "id": 8,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 8",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/8.jpg"
+    },
+	{
+      "id": 9,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 9",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/9.jpg"
+    },
+	{
+      "id": 10,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 10",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/10.jpg"
+    },
+	    {
+      "id": 11,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 11",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/11.jpg"
+    },
+	{
+      "id": 12,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 12",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/12.jpg"
+    },
+	{
+      "id": 13,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 13",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/13.jpg"
+    },
+	{
+      "id": 14,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 14",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/14.jpg"
+    },
+	{
+      "id": 15,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 15",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/15.jpg"
+    },
+	{
+      "id": 16,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 16",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/16.jpg"
+    },
+	{
+      "id": 17,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 17",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/17.jpg"
+    },
+	{
+      "id": 18,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 18",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/18.jpg"
+    },
+	{
+      "id": 19,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 19",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/19.jpg"
+    },
+	{
+      "id": 20,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 20",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/20.jpg"
+    },
+	    {
+      "id": 21,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 21",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/21.jpg"
+    },
+	{
+      "id": 22,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 22",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/22.jpg"
+    },
+	{
+      "id": 23,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 23",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/23.jpg"
+    },
+	{
+      "id": 24,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 24",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/24.jpg"
+    },
+	{
+      "id": 25,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 25",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/25.jpg"
+    },
+	{
+      "id": 26,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 26",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/26.jpg"
+    },
+	{
+      "id": 27,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 27",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/27.jpg"
+    },
+	{
+      "id": 28,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 28",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/28.jpg"
+    },
+	{
+      "id": 29,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 29",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/29.jpg"
+    },
+	{
+      "id": 30,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 30",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/30.jpg"
+    },
+	    {
+      "id": 31,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 31",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/31.jpg"
+    },
+	{
+      "id": 32,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 32",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/32.jpg"
+    },
+	{
+      "id": 33,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 33",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/33.jpg"
+    },
+	{
+      "id": 34,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 34",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/34.jpg"
+    },
+	{
+      "id": 35,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 35",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/35.jpg"
+    },
+	{
+      "id": 36,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 36",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/36.jpg"
+    },
+	{
+      "id": 37,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 37",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/37.jpg"
+    },
+	{
+      "id": 38,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 38",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/38.jpg"
+    },
+	{
+      "id": 39,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 39",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/39.jpg"
+    },
+	{
+      "id": 40,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 40",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/40.jpg"
+    },
+	    {
+      "id": 41,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 41",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/41.jpg"
+    },
+	{
+      "id": 42,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 42",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/42.jpg"
+    },
+	{
+      "id": 43,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 43",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/43.jpg"
+    },
+	{
+      "id": 44,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 44",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/44.jpg"
+    },
+	{
+      "id": 45,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 45",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/45.jpg"
+    },
+	{
+      "id": 46,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 46",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/46.jpg"
+    },
+	{
+      "id": 47,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 47",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/47.jpg"
+    },
+	{
+      "id": 48,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 48",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/48.jpg"
+    },
+	{
+      "id": 49,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 49",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/49.jpg"
+    },
+	{
+      "id": 50,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 50",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/50.jpg"
+    },
+	    {
+      "id": 51,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 51",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/51.jpg"
+    },
+	{
+      "id": 52,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 52",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/52.jpg"
+    },
+	{
+      "id": 53,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 53",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/53.jpg"
+    },
+	{
+      "id": 54,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 54",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/54.jpg"
+    },
+	{
+      "id": 55,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 55",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/55.jpg"
+    },
+	{
+      "id": 56,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 56",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/56.jpg"
+    },
+	{
+      "id": 57,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 57",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/57.jpg"
+    },
+	{
+      "id": 58,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 58",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/58.jpg"
+    },
+	{
+      "id": 59,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 59",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/59.jpg"
+    },
+	{
+      "id": 60,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 60",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/60.jpg"
+    },
+	    {
+      "id": 61,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 61",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/61.jpg"
+    },
+	{
+      "id": 62,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 62",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/62.jpg"
+    },
+	{
+      "id": 63,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 63",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/63.jpg"
+    },
+	{
+      "id": 64,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 64",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/64.jpg"
+    },
+	{
+      "id": 65,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 65",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/65.jpg"
+    },
+	{
+      "id": 66,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 66",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/66.jpg"
+    },
+	{
+      "id": 67,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 67",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/67.jpg"
+    },
+	{
+      "id": 68,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 68",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/68.jpg"
+    },
+	{
+      "id": 69,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 69",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/69.jpg"
+    },
+	{
+      "id": 70,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 70",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/70.jpg"
+    },
+	    {
+      "id": 71,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 71",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/71.jpg"
+    },
+	{
+      "id": 72,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 72",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/72.jpg"
+    },
+	{
+      "id": 73,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 73",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/73.jpg"
+    },
+	{
+      "id": 74,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 74",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/74.jpg"
+    },
+	{
+      "id": 75,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 75",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/75.jpg"
+    },
+	{
+      "id": 76,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 76",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/76.jpg"
+    },
+	{
+      "id": 77,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 77",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/77.jpg"
+    },
+	{
+      "id": 78,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 78",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/78.jpg"
+    },
+	{
+      "id": 79,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 79",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/79.jpg"
+    },
+	{
+      "id": 80,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 80",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/80.jpg"
+    },
+	    {
+      "id": 81,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 81",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/81.jpg"
+    },
+	{
+      "id": 82,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 82",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/82.jpg"
+    },
+	{
+      "id": 83,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 83",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/83.jpg"
+    },
+	{
+      "id": 84,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 84",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/84.jpg"
+    },
+	{
+      "id": 85,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 85",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/85.jpg"
+    },
+	{
+      "id": 86,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 86",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/86.jpg"
+    },
+	{
+      "id": 87,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 87",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/87.jpg"
+    },
+	{
+      "id": 88,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 88",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/88.jpg"
+    },
+	{
+      "id": 89,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 89",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/89.jpg"
+    },
+	{
+      "id": 90,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 90",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/90.jpg"
+    },
+	    {
+      "id": 91,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 91",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/91.jpg"
+    },
+	{
+      "id": 92,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 92",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/92.jpg"
+    },
+	{
+      "id": 93,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 93",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/93.jpg"
+    },
+	{
+      "id": 94,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 94",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/94.jpg"
+    },
+	{
+      "id": 95,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 95",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/95.jpg"
+    },
+	{
+      "id": 96,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 96",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/96.jpg"
+    },
+	{
+      "id": 97,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 97",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/97.jpg"
+    },
+	{
+      "id": 98,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 98",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/98.jpg"
+    },
+	{
+      "id": 99,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 99",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/99.jpg"
+    },
+	{
+      "id": 100,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 100",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/100.jpg"
+    },
+	    {
+      "id": 101,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 101",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/101.jpg"
+    },
+	{
+      "id": 102,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 102",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/102.jpg"
+    },
+	{
+      "id": 103,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 103",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/103.jpg"
+    },
+	{
+      "id": 104,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 104",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/104.jpg"
+    },
+	{
+      "id": 105,
+      "name_category": "Cool",
+      "wallpaper_name": "Wall 105",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/dubai/105.jpg"
+    },
+	
+	{
+      "id": 106,
+      "name_category": "GIF",
+      "wallpaper_name": "Live 1",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://kerikil.xyz/dubai/gif1.gif"
+    },
+	{
+      "id": 107,
+      "name_category": "GIF",
+      "wallpaper_name": "Live 2",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://kerikil.xyz/dubai/gif2.gif"
+    },
+	
+	{
+      "id": 111,
+      "name_category": "Video",
+      "wallpaper_name": "Video 1",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "http://kerikil.xyz/video/1.mp4"
+    },
+	{
+      "id": 112,
+      "name_category": "Video",
+      "wallpaper_name": "Video 2",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "http://kerikil.xyz/video/2.mp4"
+    },
+	{
+      "id": 113,
+      "name_category": "Video",
+      "wallpaper_name": "Video 3",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "http://kerikil.xyz/video/3.mp4"
+    },
+	{
+      "id": 114,
+      "name_category": "Video",
+      "wallpaper_name": "Video 4",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "http://kerikil.xyz/video/4.mp4"
+    },
+	{
+      "id": 115,
+      "name_category": "Video",
+      "wallpaper_name": "Video 5",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "http://kerikil.xyz/video/5.mp4"
+    },
+	{
+      "id": 116,
+      "name_category": "Video",
+      "wallpaper_name": "Video 6",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "http://kerikil.xyz/video/6.mp4"
+    },
+	{
+      "id": 117,
+      "name_category": "Video",
+      "wallpaper_name": "Video 7",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "http://kerikil.xyz/video/7.mp4"
+    }
+  ]
+}
