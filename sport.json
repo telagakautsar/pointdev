@@ -1,0 +1,325 @@
+{
+   "Ads": [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 4,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "car",
+      "high_paying_keyword_2": "fashion",
+      "high_paying_keyword_3": "sport",
+      "high_paying_keyword_4": "mobile",
+      "high_paying_keyword_5": "insurance",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "Theme": [
+    {
+      "url_theme": "https://kerikil.xyz/car/1.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/car/2.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/3.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/4.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/5.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/6.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/7.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/8.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/9.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/10.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/11.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/car/12.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/13.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/14.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/15.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/16.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/17.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/18.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/19.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/20.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/21.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/car/22.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/23.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/24.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/25.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/26.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/27.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/28.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/29.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/30.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/31.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/car/32.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/33.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/34.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/35.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/36.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/37.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/38.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/39.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/40.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/41.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/car/42.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/43.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/44.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/45.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/46.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/47.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/48.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/49.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/50.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/51.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/car/52.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/53.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/54.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/55.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/56.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/57.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/58.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/59.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/60.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/61.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/car/62.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/63.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/64.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/65.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/66.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/67.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/68.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/69.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/70.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/71.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/car/72.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/73.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/74.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/75.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/76.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/77.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/78.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/79.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/80.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/81.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/car/82.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/83.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/84.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/85.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/86.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/87.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/88.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/89.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/90.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/91.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/car/92.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/93.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/94.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/95.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/96.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/97.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/98.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/99.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/car/100.jpg"
+    }
+     
+  ]
+}
