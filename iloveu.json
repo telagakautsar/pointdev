@@ -1,0 +1,372 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "Love",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/iloveu/logo.jpg"
+    },
+    {
+      "name_category": "GIF",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/iloveu/logo2.jpg"
+    },
+    {
+      "name_category": "wallpaper/iloveu/video",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/iloveu/logo3.jpg"
+    }
+    
+	  
+  ],
+  "Wallpaper": [
+    {
+      "id": 1,
+      "name_category": "Love",
+      "wallpaper_name": "Wall 1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/iloveu/1.jpg"
+    },
+	{
+      "id": 2,
+      "name_category": "Love",
+      "wallpaper_name": "Wall 2",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/iloveu/2.jpg"
+    },
+	{
+      "id": 3,
+      "name_category": "Love",
+      "wallpaper_name": "Wall 3",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/iloveu/3.jpg"
+    },
+	{
+      "id": 4,
+      "name_category": "Love",
+      "wallpaper_name": "Wall 4",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/iloveu/4.jpg"
+    },
+	{
+      "id": 5,
+      "name_category": "Love",
+      "wallpaper_name": "Wall 5",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/iloveu/5.jpg"
+    },
+	{
+      "id": 6,
+      "name_category": "Love",
+      "wallpaper_name": "Wall 6",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/iloveu/6.jpg"
+    },
+	{
+      "id": 7,
+      "name_category": "Love",
+      "wallpaper_name": "Wall 7",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/iloveu/7.jpg"
+    },
+	{
+      "id": 8,
+      "name_category": "Love",
+      "wallpaper_name": "Wall 8",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/iloveu/8.jpg"
+    },
+	{
+      "id": 9,
+      "name_category": "Love",
+      "wallpaper_name": "Wall 9",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/iloveu/9.jpg"
+    },
+	{
+      "id": 10,
+      "name_category": "Love",
+      "wallpaper_name": "Wall 10",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/iloveu/10.jpg"
+    },
+	    {
+      "id": 11,
+      "name_category": "Love",
+      "wallpaper_name": "Wall 11",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/iloveu/11.jpg"
+    },
+	{
+      "id": 12,
+      "name_category": "Love",
+      "wallpaper_name": "Wall 12",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/iloveu/12.jpg"
+    },
+	{
+      "id": 13,
+      "name_category": "Love",
+      "wallpaper_name": "Wall 13",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/iloveu/13.jpg"
+    },
+	{
+      "id": 14,
+      "name_category": "Love",
+      "wallpaper_name": "Wall 14",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/iloveu/14.jpg"
+    },
+	{
+      "id": 15,
+      "name_category": "Love",
+      "wallpaper_name": "Wall 15",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/iloveu/15.jpg"
+    },
+	{
+      "id": 16,
+      "name_category": "Love",
+      "wallpaper_name": "Wall 16",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/iloveu/16.jpg"
+    },
+	{
+      "id": 17,
+      "name_category": "Love",
+      "wallpaper_name": "Wall 17",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/iloveu/17.jpg"
+    },
+	{
+      "id": 18,
+      "name_category": "Love",
+      "wallpaper_name": "Wall 18",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/iloveu/18.jpg"
+    },
+	{
+      "id": 19,
+      "name_category": "Love",
+      "wallpaper_name": "Wall 19",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/iloveu/19.jpg"
+    },
+	{
+      "id": 20,
+      "name_category": "Love",
+      "wallpaper_name": "Wall 20",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/iloveu/20.jpg"
+    },
+	    {
+      "id": 21,
+      "name_category": "Love",
+      "wallpaper_name": "Wall 21",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/iloveu/21.jpg"
+    },
+	{
+      "id": 22,
+      "name_category": "Love",
+      "wallpaper_name": "Wall 22",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/iloveu/22.jpg"
+    },
+	{
+      "id": 23,
+      "name_category": "Love",
+      "wallpaper_name": "Wall 23",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/iloveu/23.jpg"
+    },
+	{
+      "id": 24,
+      "name_category": "Love",
+      "wallpaper_name": "Wall 24",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/iloveu/24.jpg"
+    },
+	{
+      "id": 25,
+      "name_category": "Love",
+      "wallpaper_name": "Wall 25",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/iloveu/25.jpg"
+    },
+	{
+      "id": 26,
+      "name_category": "Love",
+      "wallpaper_name": "Wall 26",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/iloveu/26.jpg"
+    },
+	{
+      "id": 27,
+      "name_category": "Love",
+      "wallpaper_name": "Wall 27",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/iloveu/27.jpg"
+    },
+	{
+      "id": 28,
+      "name_category": "Love",
+      "wallpaper_name": "Wall 28",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/iloveu/28.jpg"
+    },
+	{
+      "id": 29,
+      "name_category": "Love",
+      "wallpaper_name": "Wall 29",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/iloveu/29.jpg"
+    },
+	{
+      "id": 30,
+      "name_category": "Love",
+      "wallpaper_name": "Wall 30",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/iloveu/30.jpg"
+    },
+	    {
+      "id": 31,
+      "name_category": "Love",
+      "wallpaper_name": "Wall 31",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/iloveu/31.jpg"
+    },
+	{
+      "id": 32,
+      "name_category": "Love",
+      "wallpaper_name": "Wall 32",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/iloveu/32.jpg"
+    },
+	{
+      "id": 33,
+      "name_category": "Love",
+      "wallpaper_name": "Wall 33",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/iloveu/33.jpg"
+    },
+	
+	{
+      "id": 105,
+      "name_category": "Love",
+      "wallpaper_name": "Wall 105",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/iloveu/105.jpg"
+    },
+	
+	{
+      "id": 106,
+      "name_category": "GIF",
+      "wallpaper_name": "Live 1",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/iloveu/gif1.gif"
+    },
+	{
+      "id": 107,
+      "name_category": "GIF",
+      "wallpaper_name": "Live 2",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/iloveu/gif2.gif"
+    },
+	
+	{
+      "id": 111,
+      "name_category": "Video",
+      "wallpaper_name": "video 1",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "http://kerikil.xyz/wallpaper/iloveu/video/1.mp4"
+    },
+	{
+      "id": 112,
+        "name_category": "Video",
+      "wallpaper_name": "video 2",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "http://kerikil.xyz/wallpaper/iloveu/video/2.mp4"
+    },
+	{
+      "id": 113,
+         "name_category": "Video",
+      "wallpaper_name": "video 3",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "http://kerikil.xyz/wallpaper/iloveu/video/3.mp4"
+    },
+	{
+      "id": 114,
+         "name_category": "Video",
+      "wallpaper_name": "video 4",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "http://kerikil.xyz/wallpaper/iloveu/video/4.mp4"
+    },
+	{
+      "id": 115,
+         "name_category": "Video",
+      "wallpaper_name": "video 5",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "http://kerikil.xyz/wallpaper/iloveu/video/5.mp4"
+    },
+	{
+      "id": 116,
+        "name_category": "Video",
+      "wallpaper_name": "video 6",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "http://kerikil.xyz/wallpaper/iloveu/video/6.mp4"
+    },
+	{
+      "id": 117,
+         "name_category": "Video",
+      "wallpaper_name": "video 7",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "http://kerikil.xyz/wallpaper/iloveu/video/7.mp4"
+    },
+	{
+      "id": 118,
+         "name_category": "Video",
+      "wallpaper_name": "video 8",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "http://kerikil.xyz/wallpaper/iloveu/video/8.mp4"
+    },
+	{
+      "id": 119,
+         "name_category": "Video",
+      "wallpaper_name": "video 9",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "http://kerikil.xyz/wallpaper/iloveu/video/9.mp4"
+    },
+	{
+      "id": 120,
+         "name_category": "Video",
+      "wallpaper_name": "video 10",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "http://kerikil.xyz/wallpaper/iloveu/video/10.mp4"
+    },
+	{
+      "id": 121 ,
+         "name_category": "Video",
+      "wallpaper_name": "video 11",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "http://kerikil.xyz/wallpaper/iloveu/video/11.mp4"
+    }
+  ]
+}
