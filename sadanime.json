@@ -1,0 +1,430 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "Sad",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/sadanime/logo.jpg"
+    },
+    
+    {
+      "name_category": "Video",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/sadanime/logo2.jpg"
+    }
+    
+	  
+  ],
+  "Wallpaper": [
+    {
+      "id": 1,
+      "name_category": "Sad",
+      "wallpaper_name": "Wall 1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/sadanime/girl/1.jpg"
+    },
+	{
+      "id": 2,
+      "name_category": "Sad",
+      "wallpaper_name": "Wall 2",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/sadanime/girl/2.jpg"
+    },
+	{
+      "id": 3,
+      "name_category": "Sad",
+      "wallpaper_name": "Wall 3",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/sadanime/girl/3.jpg"
+    },
+	{
+      "id": 4,
+      "name_category": "Sad",
+      "wallpaper_name": "Wall 4",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/sadanime/girl/4.jpg"
+    },
+	{
+      "id": 5,
+      "name_category": "Sad",
+      "wallpaper_name": "Wall 5",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/sadanime/girl/5.jpg"
+    },
+	{
+      "id": 6,
+      "name_category": "Sad",
+      "wallpaper_name": "Wall 6",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/sadanime/girl/6.jpg"
+    },
+	{
+      "id": 7,
+      "name_category": "Sad",
+      "wallpaper_name": "Wall 7",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/sadanime/girl/7.jpg"
+    },
+	{
+      "id": 8,
+      "name_category": "Sad",
+      "wallpaper_name": "Wall 8",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/sadanime/girl/8.jpg"
+    },
+	{
+      "id": 9,
+      "name_category": "Sad",
+      "wallpaper_name": "Wall 9",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/sadanime/girl/9.jpg"
+    },
+	{
+      "id": 10,
+      "name_category": "Sad",
+      "wallpaper_name": "Wall 10",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/sadanime/girl/10.jpg"
+    },
+	    {
+      "id": 11,
+      "name_category": "Sad",
+      "wallpaper_name": "Wall 11",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/sadanime/girl/11.jpg"
+    },
+	{
+      "id": 12,
+      "name_category": "Sad",
+      "wallpaper_name": "Wall 12",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/sadanime/girl/12.jpg"
+    },
+	{
+      "id": 13,
+      "name_category": "Sad",
+      "wallpaper_name": "Wall 13",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/sadanime/girl/13.jpg"
+    },
+	{
+      "id": 14,
+      "name_category": "Sad",
+      "wallpaper_name": "Wall 14",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/sadanime/girl/14.jpg"
+    },
+	{
+      "id": 15,
+      "name_category": "Sad",
+      "wallpaper_name": "Wall 15",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/sadanime/girl/15.jpg"
+    },
+	{
+      "id": 16,
+      "name_category": "Sad",
+      "wallpaper_name": "Wall 16",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/sadanime/girl/16.jpg"
+    },
+	{
+      "id": 17,
+      "name_category": "Sad",
+      "wallpaper_name": "Wall 17",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/sadanime/girl/17.jpg"
+    },
+	{
+      "id": 18,
+      "name_category": "Sad",
+      "wallpaper_name": "Wall 18",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/sadanime/girl/18.jpg"
+    },
+	{
+      "id": 19,
+      "name_category": "Sad",
+      "wallpaper_name": "Wall 19",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/sadanime/girl/19.jpg"
+    },
+	{
+      "id": 20,
+      "name_category": "Sad",
+      "wallpaper_name": "Wall 20",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/sadanime/girl/20.jpg"
+    },
+	    {
+      "id": 21,
+      "name_category": "Sad",
+      "wallpaper_name": "Wall 21",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/sadanime/girl/21.jpg"
+    },
+	{
+      "id": 22,
+      "name_category": "Sad",
+      "wallpaper_name": "Wall 22",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/sadanime/girl/22.jpg"
+    },
+	{
+      "id": 23,
+      "name_category": "Sad",
+      "wallpaper_name": "Wall 23",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/sadanime/girl/23.jpg"
+    },
+	{
+      "id": 24,
+      "name_category": "Sad",
+      "wallpaper_name": "Wall 24",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/sadanime/girl/24.jpg"
+    },
+	{
+      "id": 25,
+      "name_category": "Sad",
+      "wallpaper_name": "Wall 25",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/sadanime/girl/25.jpg"
+    },
+	{
+      "id": 26,
+      "name_category": "Sad",
+      "wallpaper_name": "Wall 26",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/sadanime/girl/26.jpg"
+    },
+	{
+      "id": 27,
+      "name_category": "Sad",
+      "wallpaper_name": "Wall 27",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/sadanime/girl/27.jpg"
+    },
+	{
+      "id": 28,
+      "name_category": "Sad",
+      "wallpaper_name": "Wall 28",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/sadanime/girl/28.jpg"
+    },
+	{
+      "id": 29,
+      "name_category": "Sad",
+      "wallpaper_name": "Wall 29",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/sadanime/girl/29.jpg"
+    },
+	{
+      "id": 30,
+      "name_category": "Sad",
+      "wallpaper_name": "Wall 30",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/sadanime/girl/30.jpg"
+    },
+	        {
+      "id": 31,
+      "name_category": "Sad",
+      "wallpaper_name": "Wall 31",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/sadanime/boy/1.jpg"
+    },
+	{
+      "id": 32,
+      "name_category": "Sad",
+      "wallpaper_name": "Wall 32",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/sadanime/boy/2.jpg"
+    },
+	{
+      "id": 33,
+      "name_category": "Sad",
+      "wallpaper_name": "Wall 33",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/sadanime/boy/3.jpg"
+    },
+	{
+      "id": 34,
+      "name_category": "Sad",
+      "wallpaper_name": "Wall 34",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/sadanime/boy/4.jpg"
+    },
+	{
+      "id": 35,
+      "name_category": "Sad",
+      "wallpaper_name": "Wall 35",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/sadanime/boy/5.jpg"
+    },
+	{
+      "id": 36,
+      "name_category": "Sad",
+      "wallpaper_name": "Wall 36",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/sadanime/boy/6.jpg"
+    },
+	{
+      "id": 37,
+      "name_category": "Sad",
+      "wallpaper_name": "Wall 37",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/sadanime/boy/7.jpg"
+    },
+	{
+      "id": 38,
+      "name_category": "Sad",
+      "wallpaper_name": "Wall 38",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/sadanime/boy/8.jpg"
+    },
+	{
+      "id": 39,
+      "name_category": "Sad",
+      "wallpaper_name": "Wall 39",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/sadanime/boy/9.jpg"
+    },
+	{
+      "id": 40,
+      "name_category": "Sad",
+      "wallpaper_name": "Wall 40",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/sadanime/boy/10.jpg"
+    },
+	{
+      "id": 41,
+      "name_category": "Sad",
+      "wallpaper_name": "Wall 41",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/sadanime/boy/11.jpg"
+    },
+	{
+      "id": 42,
+      "name_category": "Sad",
+      "wallpaper_name": "Wall 42",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/sadanime/boy/12.jpg"
+    },
+	{
+      "id": 43,
+      "name_category": "Sad",
+      "wallpaper_name": "Wall 43",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/sadanime/boy/13.jpg"
+    },
+	{
+      "id": 44,
+      "name_category": "Sad",
+      "wallpaper_name": "Wall 44",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/sadanime/boy/14.jpg"
+    },
+	{
+      "id": 45,
+      "name_category": "Sad",
+      "wallpaper_name": "Wall 45",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/sadanime/boy/15.jpg"
+    },
+	{
+      "id": 46,
+      "name_category": "Sad",
+      "wallpaper_name": "Wall 46",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/sadanime/boy/16.jpg"
+    },
+	{
+      "id": 47,
+      "name_category": "Sad",
+      "wallpaper_name": "Wall 47",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/sadanime/boy/17.jpg"
+    },
+	{
+      "id": 48,
+      "name_category": "Sad",
+      "wallpaper_name": "Wall 48",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/sadanime/boy/18.jpg"
+    },
+	{
+      "id": 49,
+      "name_category": "Sad",
+      "wallpaper_name": "Wall 49",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/sadanime/boy/19.jpg"
+    },
+	
+	{
+      "id": 111,
+      "name_category": "Video",
+      "wallpaper_name": "Video 1",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/sadanime/video/1.mp4"
+    },
+	{
+      "id": 112,
+      "name_category": "Video",
+      "wallpaper_name": "Video 2",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/sadanime/video/2.mp4"
+    },
+	{
+      "id": 113,
+      "name_category": "Video",
+      "wallpaper_name": "Video 3",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/sadanime/video/3.mp4"
+    },
+	{
+      "id": 114,
+      "name_category": "Video",
+      "wallpaper_name": "Video 4",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/sadanime/video/4.mp4"
+    },
+	{
+      "id": 115,
+      "name_category": "Video",
+      "wallpaper_name": "Video 5",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/sadanime/video/5.mp4"
+    },
+	{
+      "id": 116,
+      "name_category": "Video",
+      "wallpaper_name": "Video 6",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/sadanime/video/6.mp4"
+    },
+	{
+      "id": 117,
+      "name_category": "Video",
+      "wallpaper_name": "Video 7",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/sadanime/video/7.mp4"
+    }
+  ]
+}
