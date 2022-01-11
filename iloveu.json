@@ -29,7 +29,7 @@
       "wallpaper_url": "https://kerikil.xyz/wallpaper/iloveu/logo2.jpg"
     },
     {
-      "name_category": "wallpaper/iloveu/video",
+      "name_category": "Video",
       "wallpaper_url": "https://kerikil.xyz/wallpaper/iloveu/logo3.jpg"
     }
     
@@ -281,14 +281,14 @@
       "name_category": "GIF",
       "wallpaper_name": "Live 1",
       "wallpaper_type": "GIF",
-      "wallpaper_url": "https://kerikil.xyz/wallpaper/iloveu/gif1.gif"
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/iloveu/video/gif1.gif"
     },
 	{
       "id": 107,
       "name_category": "GIF",
       "wallpaper_name": "Live 2",
       "wallpaper_type": "GIF",
-      "wallpaper_url": "https://kerikil.xyz/wallpaper/iloveu/gif2.gif"
+      "wallpaper_url": "https://kerikil.xyz/wallpaper/iloveu/video/gif2.gif"
     },
 	
 	{
