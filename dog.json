@@ -1,0 +1,175 @@
+{
+   "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 3,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "car",
+      "high_paying_keyword_2": "fashion",
+      "high_paying_keyword_3": "sport",
+      "high_paying_keyword_4": "mobile",
+      "high_paying_keyword_5": "insurance",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "Theme": [
+    {
+      "url_theme": "https://kerikil.xyz/keyboard/dog/1.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/dog/2.jpg"
+    },
+	{
+     "url_theme": "https://kerikil.xyz/keyboard/dog/3.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/dog/4.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/dog/5.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/dog/6.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/dog/7.jpg"
+    },
+	{
+     "url_theme": "https://kerikil.xyz/keyboard/dog/8.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/dog/9.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/dog/10.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/dog/11.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/dog/12.jpg"
+    },
+	{
+     "url_theme": "https://kerikil.xyz/keyboard/dog/13.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/dog/14.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/dog/15.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/dog/16.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/dog/17.jpg"
+    },
+	{
+     "url_theme": "https://kerikil.xyz/keyboard/dog/18.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/dog/19.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/dog/20.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/dog/21.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/dog/22.jpg"
+    },
+	{
+     "url_theme": "https://kerikil.xyz/keyboard/dog/23.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/dog/24.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/dog/25.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/dog/26.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/dog/27.jpg"
+    },
+	{
+     "url_theme": "https://kerikil.xyz/keyboard/dog/28.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/dog/29.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/dog/30.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/dog/31.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/dog/32.jpg"
+    },
+	{
+     "url_theme": "https://kerikil.xyz/keyboard/dog/33.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/dog/34.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/dog/35.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/dog/36.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/dog/37.jpg"
+    },
+	{
+     "url_theme": "https://kerikil.xyz/keyboard/dog/38.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/dog/39.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/dog/40.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/dog/41.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/dog/42.jpg"
+    },
+	{
+     "url_theme": "https://kerikil.xyz/keyboard/dog/43.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/dog/44.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/dog/45.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/dog/46.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/dog/47.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/dog/48.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/dog/49.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/dog/50.jpg"
+    }
+     
+  ]
+}

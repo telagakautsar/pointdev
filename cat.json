@@ -1,0 +1,175 @@
+{
+   "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 3,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "car",
+      "high_paying_keyword_2": "fashion",
+      "high_paying_keyword_3": "sport",
+      "high_paying_keyword_4": "mobile",
+      "high_paying_keyword_5": "insurance",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "Theme": [
+    {
+      "url_theme": "https://kerikil.xyz/keyboard/cat/1.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/cat/2.jpg"
+    },
+	{
+     "url_theme": "https://kerikil.xyz/keyboard/cat/3.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/cat/4.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/cat/5.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/cat/6.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/cat/7.jpg"
+    },
+	{
+     "url_theme": "https://kerikil.xyz/keyboard/cat/8.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/cat/9.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/cat/10.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/cat/11.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/cat/12.jpg"
+    },
+	{
+     "url_theme": "https://kerikil.xyz/keyboard/cat/13.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/cat/14.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/cat/15.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/cat/16.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/cat/17.jpg"
+    },
+	{
+     "url_theme": "https://kerikil.xyz/keyboard/cat/18.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/cat/19.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/cat/20.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/cat/21.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/cat/22.jpg"
+    },
+	{
+     "url_theme": "https://kerikil.xyz/keyboard/cat/23.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/cat/24.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/cat/25.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/cat/26.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/cat/27.jpg"
+    },
+	{
+     "url_theme": "https://kerikil.xyz/keyboard/cat/28.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/cat/29.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/cat/30.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/cat/31.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/cat/32.jpg"
+    },
+	{
+     "url_theme": "https://kerikil.xyz/keyboard/cat/33.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/cat/34.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/cat/35.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/cat/36.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/cat/37.jpg"
+    },
+	{
+     "url_theme": "https://kerikil.xyz/keyboard/cat/38.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/cat/39.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/cat/40.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/cat/41.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/cat/42.jpg"
+    },
+	{
+     "url_theme": "https://kerikil.xyz/keyboard/cat/43.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/cat/44.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/cat/45.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/cat/46.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/cat/47.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/cat/48.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/cat/49.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/cat/50.jpg"
+    }
+     
+  ]
+}
