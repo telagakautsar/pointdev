@@ -1,0 +1,116 @@
+{
+   "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 3,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "car",
+      "high_paying_keyword_2": "fashion",
+      "high_paying_keyword_3": "sport",
+      "high_paying_keyword_4": "mobile",
+      "high_paying_keyword_5": "insurance",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "Theme": [
+    {
+      "url_theme": "https://kerikil.xyz/keyboard/encanto/1.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/encanto/2.jpg"
+    },
+	{
+     "url_theme": "https://kerikil.xyz/keyboard/encanto/3.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/encanto/4.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/encanto/5.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/encanto/6.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/encanto/7.jpg"
+    },
+	{
+     "url_theme": "https://kerikil.xyz/keyboard/encanto/8.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/encanto/9.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/encanto/10.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/encanto/11.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/encanto/12.jpg"
+    },
+	{
+     "url_theme": "https://kerikil.xyz/keyboard/encanto/13.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/encanto/14.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/encanto/15.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/encanto/16.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/encanto/17.jpg"
+    },
+	{
+     "url_theme": "https://kerikil.xyz/keyboard/encanto/18.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/encanto/19.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/encanto/20.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/encanto/21.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/encanto/22.jpg"
+    },
+	{
+     "url_theme": "https://kerikil.xyz/keyboard/encanto/23.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/encanto/24.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/encanto/25.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/encanto/26.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/encanto/27.jpg"
+    },
+	{
+     "url_theme": "https://kerikil.xyz/keyboard/encanto/28.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/encanto/29.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/encanto/30.jpg"
+    }
+	
+     
+  ]
+}
