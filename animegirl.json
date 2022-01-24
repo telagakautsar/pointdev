@@ -1,0 +1,175 @@
+{
+   "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 3,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "car",
+      "high_paying_keyword_2": "fashion",
+      "high_paying_keyword_3": "sport",
+      "high_paying_keyword_4": "mobile",
+      "high_paying_keyword_5": "insurance",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "Theme": [
+    {
+      "url_theme": "https://kerikil.xyz/keyboard/animegirl/1.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/animegirl/2.jpg"
+    },
+	{
+     "url_theme": "https://kerikil.xyz/keyboard/animegirl/3.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/animegirl/4.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/animegirl/5.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/animegirl/6.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/animegirl/7.jpg"
+    },
+	{
+     "url_theme": "https://kerikil.xyz/keyboard/animegirl/8.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/animegirl/9.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/animegirl/10.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/animegirl/11.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/animegirl/12.jpg"
+    },
+	{
+     "url_theme": "https://kerikil.xyz/keyboard/animegirl/13.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/animegirl/14.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/animegirl/15.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/animegirl/16.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/animegirl/17.jpg"
+    },
+	{
+     "url_theme": "https://kerikil.xyz/keyboard/animegirl/18.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/animegirl/19.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/animegirl/20.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/animegirl/21.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/animegirl/22.jpg"
+    },
+	{
+     "url_theme": "https://kerikil.xyz/keyboard/animegirl/23.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/animegirl/24.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/animegirl/25.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/animegirl/26.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/animegirl/27.jpg"
+    },
+	{
+     "url_theme": "https://kerikil.xyz/keyboard/animegirl/28.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/animegirl/29.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/animegirl/30.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/animegirl/31.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/animegirl/32.jpg"
+    },
+	{
+     "url_theme": "https://kerikil.xyz/keyboard/animegirl/33.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/animegirl/34.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/animegirl/35.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/animegirl/36.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/animegirl/37.jpg"
+    },
+	{
+     "url_theme": "https://kerikil.xyz/keyboard/animegirl/38.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/animegirl/39.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/animegirl/40.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/animegirl/41.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/animegirl/42.jpg"
+    },
+	{
+     "url_theme": "https://kerikil.xyz/keyboard/animegirl/43.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/animegirl/44.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/animegirl/45.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/animegirl/46.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/animegirl/47.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/animegirl/48.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/animegirl/49.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/animegirl/50.jpg"
+    }
+     
+  ]
+}
