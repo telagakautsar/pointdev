@@ -1,0 +1,325 @@
+{
+   "Ads": [
+    {
+     "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 4,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "car",
+      "high_paying_keyword_2": "fashion",
+      "high_paying_keyword_3": "sport",
+      "high_paying_keyword_4": "mobile",
+      "high_paying_keyword_5": "insurance",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "Theme": [
+    {
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/1.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/2.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/3.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/4.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/5.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/6.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/7.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/8.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/9.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/10.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/11.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/12.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/13.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/14.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/15.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/16.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/17.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/18.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/19.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/20.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/21.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/22.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/23.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/24.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/25.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/26.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/27.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/28.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/29.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/30.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/31.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/32.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/33.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/34.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/35.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/36.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/37.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/38.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/39.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/40.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/41.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/42.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/43.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/44.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/45.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/46.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/47.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/48.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/49.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/50.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/51.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/52.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/53.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/54.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/55.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/56.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/57.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/58.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/59.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/60.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/61.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/62.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/63.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/64.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/65.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/66.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/67.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/68.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/69.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/70.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/71.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/72.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/73.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/74.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/75.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/76.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/77.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/78.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/79.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/80.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/81.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/82.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/83.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/84.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/85.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/86.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/87.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/88.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/89.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/90.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/91.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/92.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/93.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/94.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/95.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/96.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/97.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/98.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/99.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/tokyo/100.jpg"
+    }
+     
+  ]
+}
