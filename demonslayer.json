@@ -1,14 +1,14 @@
 {
    "Ads": [
     {
-     "select_main_ads": "APPLOVIN-D-NB",
-      "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "",
-      "main_ads_intertitial":"f58097f178c17d6f",
+     "select_main_ads": "IRON",
+      "select_backup_ads":"APPLOVIN-D-NB",
+      "main_ads_banner": "9830385",
+      "main_ads_intertitial":"9830383",
       "backup_ads_banner":"",
-      "backup_ads_intertitial":"f58097f178c17d6f",
-      "interval_intertitial": 2,
-      "initialize_sdk":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 1,
+      "initialize_sdk":"15cdd666d",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "car",
       "high_paying_keyword_2": "fashion",
